@@ -1,5 +1,12 @@
 h1 {
     color: #8A0808;
+    font-size: 44px;
+    font-family: Verdana, sans-serif;
+    text-transform: uppercase;
+    
+    border: 1px solid red;
+    margin: 10px;
+    padding: 5px;
 }
 h2 {
     color: #01DFD7;
